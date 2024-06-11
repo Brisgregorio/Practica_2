@@ -76,7 +76,7 @@ Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo
 </p>
 
 ### 4. Texto Enfatizado (BLOG, ITALAIC, BOLD/ITALIC)
-Si el texto queb deceamos enfatizar se encuentra en un parrafo, podemos utilizar algunos trucos para ubicarlos en la documentacion 
+Si el texto queb deceamos enfatizar se encuentra en un parrafo,  podemos utilizar algunos trucos para ubicarlos en la documentacion 
 
 ##### Texto En Negritas (BOLD)
 Para poder poner el texto en negritas, este debera ser encerrado entre dobles **
