@@ -3,12 +3,33 @@
 para poder dar énfasis a los contenidos de la documentación podemos utilizar los encabezados (Headings) para marcar alguna sección o subsección, esto se marcan utilizando el símbolo ≠ , entre menos repetisiones tenga mayor tamaño e importancia tendra el texto Ejemplo:
 
 #Encabezado nivel 1
+
 ##Encabezado nivel 2
+
 ###Encabezado nivel 3
+
 ####Encabezado nivel 4
+
 #####Encabezado nivel 5
+
 ######Encabezado nivel 6
+
 ####### Encabezado nivel 7 (Solo considera a los primeros 6 niveles)
+
+### 2. Separadores (SEPARATORS)   - PRACTICA 03
+
+Si deseas marcar una separacion mas visual de contenidos pordenados indicando tres caracteres de "-" continuos, en el maquetado
+
+Ejemplo:
+
+---
+
+*Esto es similar a un tag de < HS > en HTML
+
+### 3. Parrafos (PARAGRPAHS)
+
+Son utilizados para  presentar grandes secciones de texto que describen detalladamente las secciones de la documentacion del proyecto
+
 Ejemplo: 
 
 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1
