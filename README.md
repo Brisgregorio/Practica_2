@@ -250,7 +250,7 @@ Para agregar imagenes debemos subiria al repositorio, en la opcion de subir arch
 
 *Imagenes del proyecto*
 
-
+![](https://github.com/Brisgregorio/Practica_2/blob/main/logg.jpg)
 
 
  
